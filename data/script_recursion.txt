@@ -1,0 +1,4 @@
+info
+execute_script data/1.txt
+1
+info
